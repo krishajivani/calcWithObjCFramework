@@ -3,8 +3,8 @@
 ## Project Summary
 The app features a calculator developed in Swift with arithmetic logic written as an Objective C Framework.
 
-<img width="470" alt="portrait_calc" src="https://user-images.githubusercontent.com/45325370/124705831-e2305100-debb-11eb-8284-2169b7cb4513.png">
-<img width="959" alt="landscape_calc" src="https://user-images.githubusercontent.com/45325370/124705846-e8263200-debb-11eb-9161-b2f8a9e20211.png">
+<img width="282" alt="portrait_calc" src="https://user-images.githubusercontent.com/45325370/124705831-e2305100-debb-11eb-8284-2169b7cb4513.png">
+<img width="575" alt="landscape_calc" src="https://user-images.githubusercontent.com/45325370/124705846-e8263200-debb-11eb-9161-b2f8a9e20211.png">
 
 ## Structure of Project
 CalcArithmetic Framework -- used to evaluate mathematical expressions. <br>
